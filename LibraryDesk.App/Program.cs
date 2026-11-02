@@ -1,4 +1,4 @@
-﻿using LibraryDesk.Core;
+using LibraryDesk.Core;
 
 Reader reader = new Reader(1, "Ілля Шереметьєв");
 
